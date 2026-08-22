@@ -1254,7 +1254,7 @@
                 "last_commit": "2026-05-11T08:50:03Z",
                 "owner": "dfinity",
                 "repo": "ICRC-1",
-                "stars": 89
+                "stars": 90
               }
             },
             {
@@ -1631,7 +1631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:17:31.713Z",
+    "last_updated": "2026-08-22T15:01:37.107Z",
     "original_repository": "ic123-xyz/awesome-motoko",
     "original_repository_id": 417071701,
     "original_repository_sha": "1707b681dd4b822242d51fb698a88d6470da28ca",

@@ -160,7 +160,7 @@ Fully functional smart contract.
 * [rand](https://github.com/aviate-labs/rand.mo) ⭐ 5 | 🐛 1 | 🌐 Motoko | 📅 2022-12-16 - Pseudo Random Number Generators.
 * [motoko-CRC32](https://github.com/aviate-labs/hash.mo) ⭐ 2 | 🐛 0 | 🌐 Modelica | 📅 2023-03-14 - Implements the 32-bit cyclic redundancy check, or CRC-32, checksum.
 * [motoko-sha2](https://github.com/timohanke/motoko-sha2) ⭐ 2 | 🐛 0 | 🌐 Motoko | 📅 2022-01-15 - All hash functions from the SHA2 family (sha224, sha256, sha512-224, sha512-256, sha384, sha512).
-* [libsecp256k1.mo](https://github.com/av1ctor/libsecp256k1.mo) ⭐ 1 | 🐛 1 | 🌐 Motoko | 📅 2023-05-02 - Motoko port of libsecp256k1.
+* [libsecp256k1.mo](https://github.com/av1ctor/libsecp256k1.mo) ⭐ 1 | 🐛 2 | 🌐 Motoko | 📅 2023-05-02 - Motoko port of libsecp256k1.
 * [ecdsa\_poc](https://github.com/flyq/ecdsa_poc) ⭐ 0 | 🐛 0 | 🌐 Motoko | 📅 2023-12-25 - Prototype implementation of ECDSA, only for learning.
 * [motoko-crc](https://github.com/enzoh/motoko-crc) - This package implements cyclic redundancy checks for the Motoko programming language.
 
@@ -189,7 +189,7 @@ Fully functional smart contract.
 
 ### Encoding
 
-* [Account.mo](https://github.com/dfinity/ICRC-1/blob/main/ref/Account.mo) ⭐ 89 | 🐛 32 | 🌐 Rust | 📅 2026-05-11 – ICRC1 Account En/Decoding
+* [Account.mo](https://github.com/dfinity/ICRC-1/blob/main/ref/Account.mo) ⭐ 90 | 🐛 32 | 🌐 Rust | 📅 2026-05-11 – ICRC1 Account En/Decoding
 * [motoko-UUID](https://github.com/aviate-labs/uuid.mo) ⭐ 20 | 🐛 2 | 🌐 Motoko | 📅 2022-12-16 - Generation of UUIDs based on RFC 4122.
 * [json package](https://github.com/aviate-labs/json.mo) ⭐ 19 | 🐛 6 | 🌐 Motoko | 📅 2024-02-09 - JSON for Motoko.
 * [motoko-Encode](https://github.com/aviate-labs/encoding.mo) ⭐ 11 | 🐛 0 | 🌐 Motoko | 📅 2022-12-15 - Base32, Hex and Binary Library for the Motoko.
@@ -271,4 +271,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
