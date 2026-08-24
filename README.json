@@ -216,6 +216,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "BrownFi",
+              "description": "Simple AMM Dex with high Capital Effifiency",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 768423913,
+                "language": "Motoko",
+                "last_commit": "2026-06-04T19:45:29Z",
+                "owner": "BrownFi",
+                "repo": "BrownFi-AMM-ICP",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Decentralized Finance"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "reversi",
               "description": "Multiplayer Reversi Game on Internet Computer.",
               "children": [],
@@ -263,6 +285,28 @@
           "description": null,
           "node_type": "group",
           "title": "Games"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "loka",
+              "description": "Trustless Non-Custodial Bitcoin Mining Platform built on IC",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 719538283,
+                "language": "Motoko",
+                "last_commit": "2023-12-05T12:59:54Z",
+                "owner": "lokaverse",
+                "repo": "loka_canister",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mining Platform"
         },
         {
           "children": [
@@ -479,6 +523,28 @@
           "description": null,
           "node_type": "group",
           "title": "Utilities"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cancan",
+              "description": "A scalable video-sharing service.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 365059366,
+                "language": "TypeScript",
+                "last_commit": "2026-04-09T12:04:30Z",
+                "owner": "dfinity",
+                "repo": "cancan",
+                "stars": 338
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Video"
         }
       ],
       "title": "Applications"
@@ -1490,6 +1556,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Gitcoin Passport Client",
+              "description": "A sample app to securely copy Gitcoin Passport scores to ICP databases.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 743278610,
+                "language": "Motoko",
+                "last_commit": "2026-01-24T10:58:34Z",
+                "owner": "vporton",
+                "repo": "passport-client-dfinity",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Misc"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "IC-PayPortal",
+              "description": "Module for Motoko is a library that provides developers with a set of functions for managing fiat payments (Stripe, PayPal) on the Internet Computer Protocol (ICP).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 664194124,
+                "language": "Motoko",
+                "last_commit": "2024-08-25T10:32:56Z",
+                "owner": "Expeera",
+                "repo": "IC-PayPortal",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Payment"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Bucket",
               "description": "A data bucket library that use stable memory to store files bytes and assist developers to build http response.",
               "children": [],
@@ -1522,6 +1632,28 @@
           "description": null,
           "node_type": "group",
           "title": "Storage"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "motoko-library-template",
+              "description": "A template for creating Motoko libraries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 346098312,
+                "language": "Modelica",
+                "last_commit": "2021-05-27T07:26:51Z",
+                "owner": "kritzcreek",
+                "repo": "motoko-library-template",
+                "stars": 31
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Templates"
         },
         {
           "children": [
@@ -1574,6 +1706,28 @@
           "description": null,
           "node_type": "group",
           "title": "Text processing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Http Request Parser",
+              "description": "A http request parser for parsing url, search query, headers and form data.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 452068590,
+                "language": "Motoko",
+                "last_commit": "2025-08-03T03:21:12Z",
+                "owner": "NatLabs",
+                "repo": "http-parser.mo",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web Programming"
         }
       ],
       "title": "Libraries"
@@ -1631,7 +1785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:02:40.561Z",
+    "last_updated": "2026-08-24T14:38:25.250Z",
     "original_repository": "ic123-xyz/awesome-motoko",
     "original_repository_id": 417071701,
     "original_repository_sha": "1707b681dd4b822242d51fb698a88d6470da28ca",
