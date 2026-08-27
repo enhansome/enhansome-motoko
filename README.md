@@ -111,7 +111,7 @@ Fully functional smart contract.
 
 ### Video
 
-* [cancan](https://github.com/dfinity/cancan) ⭐ 338 | 🐛 33 | 🌐 TypeScript | 📅 2026-04-09 - A scalable video-sharing service.
+* [cancan](https://github.com/dfinity/cancan) ⭐ 337 | 🐛 33 | 🌐 TypeScript | 📅 2026-04-09 - A scalable video-sharing service.
 
 ## Development tools
 
@@ -258,7 +258,7 @@ A registry allows you to publish your Rust libraries as crate packages, to share
   * [Introducing the Internet Computer](https://smartcontracts.org/docs/introduction/welcome.html) - A comprehensive series of documents that introduce Internet Computer.
   * [Mastering Motoko Book](https://github.com/niklabh/motokobook) ⭐ 2 | 🐛 1 | 🌐 HTML | 📅 2026-06-21 - The Definitive Guide to Decentralized Application Engineering on the Internet Computer
   * [Motoko Bootcamp](https://github.com/motoko-bootcamp/education) - Lectures and resources from the Motoko Bootcamp.
-  * [motoko by example](https://github.com/dfinity/examples/tree/master/motoko) ⭐ 613 | 🐛 23 | 🌐 Rust | 📅 2026-08-25 - An officially maintained collection of short Motoko examples.
+  * [motoko by example](https://github.com/dfinity/examples/tree/master/motoko) ⭐ 613 | 🐛 27 | 🌐 Rust | 📅 2026-08-27 - An officially maintained collection of short Motoko examples.
   * [The Motoko Programming Language Book](https://web3.motoko-book.dev/) - A guide for writing Web3 Software on the Internet Computer.
 
 ## Contribute
@@ -271,4 +271,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

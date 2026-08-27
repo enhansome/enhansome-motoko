@@ -538,7 +538,7 @@
                 "last_commit": "2026-04-09T12:04:30Z",
                 "owner": "dfinity",
                 "repo": "cancan",
-                "stars": 338
+                "stars": 337
               }
             }
           ],
@@ -1785,9 +1785,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:06:31.271Z",
-    "original_repository": "ic123-xyz/awesome-motoko",
-    "original_repository_id": 417071701,
+    "last_updated": "2026-08-27T11:52:35.011Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 417071701,
+      "language": null,
+      "last_commit": "2025-11-25T09:46:48Z",
+      "owner": "ic123-xyz",
+      "repo": "awesome-motoko",
+      "stars": 118
+    },
     "original_repository_sha": "1707b681dd4b822242d51fb698a88d6470da28ca",
     "enhanced_repository": "enhansome/enhansome-motoko",
     "enhanced_repository_description": null,
