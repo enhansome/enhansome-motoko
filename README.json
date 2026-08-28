@@ -17,8 +17,9 @@
                 "last_commit": "2025-01-05T11:48:16Z",
                 "owner": "ninegua",
                 "repo": "ic-blackhole",
-                "stars": 53
-              }
+                "stars": 54
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "ninegua",
                 "repo": "tipjar",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "ORIGYN-SA",
                 "repo": "motoko_top_up_canister",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "matthewhammer",
                 "repo": "candid-spaces",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "PrimLabs",
                 "repo": "iCAN",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             }
           ],
           "description": null,
@@ -100,7 +105,8 @@
                 "owner": "rklb7",
                 "repo": "ic-token",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "Toniq-Labs",
                 "repo": "extendable-token",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "rklb7",
                 "repo": "ic-nft",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "aviate-labs",
                 "repo": "ext.std",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "noku-team",
                 "repo": "icrc7_motoko",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "Appic-Solutions",
                 "repo": "auto-invest",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "sonicdex",
                 "repo": "icrc-1-public",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "rklb7",
                 "repo": "token-faucet",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             }
           ],
           "description": null,
@@ -227,7 +240,8 @@
                 "owner": "BrownFi",
                 "repo": "BrownFi-AMM-ICP",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             }
           ],
           "description": null,
@@ -249,7 +263,8 @@
                 "owner": "ninegua",
                 "repo": "reversi",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -264,7 +279,8 @@
                 "owner": "enzoh",
                 "repo": "superheroes",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -279,7 +295,8 @@
                 "owner": "MyceliaNetwork",
                 "repo": "revo",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             }
           ],
           "description": null,
@@ -301,7 +318,8 @@
                 "owner": "lokaverse",
                 "repo": "loka_canister",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             }
           ],
           "description": null,
@@ -323,7 +341,8 @@
                 "owner": "dfinity",
                 "repo": "linkedup",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -338,7 +357,8 @@
                 "owner": "Talentum-id",
                 "repo": "formyfi",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -353,7 +373,8 @@
                 "owner": "KezzyNgotho",
                 "repo": "Anti-Korrupt",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -368,7 +389,8 @@
                 "owner": "johnxiaohe",
                 "repo": "ICP-Spark",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             }
           ],
           "description": null,
@@ -390,7 +412,8 @@
                 "owner": "gabrielnic",
                 "repo": "motoko-cdn",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -405,7 +428,8 @@
                 "owner": "PrimLabs",
                 "repo": "Bucket",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -420,7 +444,8 @@
                 "owner": "PrimLabs",
                 "repo": "ICSP",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -435,7 +460,8 @@
                 "owner": "MyceliaNetwork",
                 "repo": "motoko-document-db",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -450,7 +476,8 @@
                 "owner": "enzoh",
                 "repo": "motoko-dht",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             }
           ],
           "description": null,
@@ -472,7 +499,8 @@
                 "owner": "nomeata",
                 "repo": "motoko-certified-http",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -487,7 +515,8 @@
                 "owner": "matthewhammer",
                 "repo": "cleansheets",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -502,7 +531,8 @@
                 "owner": "cosmasken",
                 "repo": "ic-payroll",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -517,7 +547,8 @@
                 "owner": "MyceliaNetwork",
                 "repo": "relay",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             }
           ],
           "description": null,
@@ -539,7 +570,8 @@
                 "owner": "dfinity",
                 "repo": "cancan",
                 "stars": 337
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             }
           ],
           "description": null,
@@ -567,7 +599,8 @@
                 "owner": "dfinity",
                 "repo": "sdk",
                 "stars": 204
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -582,7 +615,8 @@
                 "owner": "caffeinelabs",
                 "repo": "vessel",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             }
           ],
           "description": null,
@@ -604,7 +638,8 @@
                 "owner": "dfinity",
                 "repo": "motoko-playground",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -619,7 +654,8 @@
                 "owner": "ununhexium",
                 "repo": "idea-motoko-plugin",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             }
           ],
           "description": null,
@@ -646,7 +682,8 @@
                     "owner": "kritzcreek",
                     "repo": "ic101",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:43:07.753Z"
                 }
               ],
               "repo_info": {
@@ -657,7 +694,8 @@
                 "owner": "kritzcreek",
                 "repo": "motoko-matchers",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -672,7 +710,8 @@
                 "owner": "matthewhammer",
                 "repo": "ic-mini-terminal",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -687,7 +726,8 @@
                 "owner": "matthewhammer",
                 "repo": "motoko-bigtest",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -702,7 +742,8 @@
                 "owner": "ByronBecker",
                 "repo": "motoko-color",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             }
           ],
           "description": null,
@@ -730,7 +771,8 @@
                 "owner": "enzoh",
                 "repo": "motoko-qr",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -745,7 +787,8 @@
                 "owner": "enzoh",
                 "repo": "chronosphere",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -760,7 +803,8 @@
                 "owner": "matthewhammer",
                 "repo": "motoko-adapton",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -775,7 +819,8 @@
                 "owner": "crusso",
                 "repo": "mo-parsec",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -790,7 +835,8 @@
                 "owner": "aviate-labs",
                 "repo": "parser-combinators.mo",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -805,7 +851,8 @@
                 "owner": "aviate-labs",
                 "repo": "sorted.mo",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -820,7 +867,8 @@
                 "owner": "nomeata",
                 "repo": "motoko-scc",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -835,7 +883,8 @@
                 "owner": "chenyan2002",
                 "repo": "motoko-splay",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             }
           ],
           "description": null,
@@ -857,7 +906,8 @@
                 "owner": "tgalal",
                 "repo": "motoko-bitcoin",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -872,7 +922,8 @@
                 "owner": "enzoh",
                 "repo": "motoko-sha",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -887,7 +938,8 @@
                 "owner": "herumi",
                 "repo": "ecdsa-motoko",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -902,7 +954,8 @@
                 "owner": "aviate-labs",
                 "repo": "crypto.mo",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -917,7 +970,8 @@
                 "owner": "av1ctor",
                 "repo": "evm-txs.mo",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -932,7 +986,8 @@
                 "owner": "flyq",
                 "repo": "motoko-sha224",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -947,7 +1002,8 @@
                 "owner": "aviate-labs",
                 "repo": "rand.mo",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -962,7 +1018,8 @@
                 "owner": "aviate-labs",
                 "repo": "hash.mo",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -977,7 +1034,8 @@
                 "owner": "timohanke",
                 "repo": "motoko-sha2",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -992,7 +1050,8 @@
                 "owner": "av1ctor",
                 "repo": "libsecp256k1.mo",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1007,7 +1066,8 @@
                 "owner": "flyq",
                 "repo": "ecdsa_poc",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             }
           ],
           "description": null,
@@ -1029,7 +1089,8 @@
                 "owner": "caffeinelabs",
                 "repo": "motoko-base",
                 "stars": 492
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1044,7 +1105,8 @@
                 "owner": "matthewhammer",
                 "repo": "motoko-crud",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1059,7 +1121,8 @@
                 "owner": "nomeata",
                 "repo": "ic-certification",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1074,7 +1137,8 @@
                 "owner": "matthewhammer",
                 "repo": "motoko-sequence",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1089,7 +1153,8 @@
                 "owner": "matthewhammer",
                 "repo": "motoko-sequence",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1104,7 +1169,8 @@
                 "owner": "canscale",
                 "repo": "StableHashMap",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1119,7 +1185,8 @@
                 "owner": "aviate-labs",
                 "repo": "principal.mo",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1134,7 +1201,8 @@
                 "owner": "canscale",
                 "repo": "StableBuffer",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1149,7 +1217,8 @@
                 "owner": "sardariuss",
                 "repo": "MotokoStableBTree",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1164,7 +1233,8 @@
                 "owner": "aviate-labs",
                 "repo": "bimap.mo",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1179,7 +1249,8 @@
                 "owner": "canscale",
                 "repo": "StableHeapBTreeMap",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1194,7 +1265,8 @@
                 "owner": "aviate-labs",
                 "repo": "array.mo",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1209,7 +1281,8 @@
                 "owner": "edjCase",
                 "repo": "motoko_datetime",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1224,7 +1297,8 @@
                 "owner": "canscale",
                 "repo": "StableRBTree",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1239,7 +1313,8 @@
                 "owner": "canscale",
                 "repo": "LinkedList",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1254,7 +1329,8 @@
                 "owner": "aviate-labs",
                 "repo": "queue.mo",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1269,7 +1345,8 @@
                 "owner": "kritzcreek",
                 "repo": "motoko-text-map",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1284,7 +1361,8 @@
                 "owner": "ninegua",
                 "repo": "mutable-queue.mo",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1299,7 +1377,8 @@
                 "owner": "aviate-labs",
                 "repo": "stable.mo",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             }
           ],
           "description": null,
@@ -1321,7 +1400,8 @@
                 "owner": "dfinity",
                 "repo": "ICRC-1",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1336,7 +1416,8 @@
                 "owner": "aviate-labs",
                 "repo": "uuid.mo",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1351,7 +1432,8 @@
                 "owner": "aviate-labs",
                 "repo": "json.mo",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1366,7 +1448,8 @@
                 "owner": "aviate-labs",
                 "repo": "encoding.mo",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1381,7 +1464,8 @@
                 "owner": "edjCase",
                 "repo": "motoko_candid",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1396,7 +1480,8 @@
                 "owner": "edjCase",
                 "repo": "motoko_cbor",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1411,7 +1496,8 @@
                 "owner": "flyq",
                 "repo": "motoko-base32",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1426,7 +1512,8 @@
                 "owner": "kritzcreek",
                 "repo": "motoko-json",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1441,7 +1528,8 @@
                 "owner": "edjCase",
                 "repo": "motoko_xml",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1456,7 +1544,8 @@
                 "owner": "canscale",
                 "repo": "lexicographic-encoding",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             }
           ],
           "description": null,
@@ -1478,7 +1567,8 @@
                 "owner": "matthewhammer",
                 "repo": "motoko-graph",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1493,7 +1583,8 @@
                 "owner": "aviate-labs",
                 "repo": "svg.mo",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1508,7 +1599,8 @@
                 "owner": "matthewhammer",
                 "repo": "motoko-redraw",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             }
           ],
           "description": null,
@@ -1530,7 +1622,8 @@
                 "owner": "ninegua",
                 "repo": "ic-logger",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1545,7 +1638,8 @@
                 "owner": "kritzcreek",
                 "repo": "motoko-pretty",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             }
           ],
           "description": null,
@@ -1567,7 +1661,8 @@
                 "owner": "vporton",
                 "repo": "passport-client-dfinity",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             }
           ],
           "description": null,
@@ -1589,7 +1684,8 @@
                 "owner": "Expeera",
                 "repo": "IC-PayPortal",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             }
           ],
           "description": null,
@@ -1611,7 +1707,8 @@
                 "owner": "PrimLabs",
                 "repo": "Bucket",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1626,7 +1723,8 @@
                 "owner": "aviate-labs",
                 "repo": "asset-storage.poc",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             }
           ],
           "description": null,
@@ -1648,7 +1746,8 @@
                 "owner": "kritzcreek",
                 "repo": "motoko-library-template",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             }
           ],
           "description": null,
@@ -1670,7 +1769,8 @@
                 "owner": "kritzcreek",
                 "repo": "motoko-regex",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1685,7 +1785,8 @@
                 "owner": "aviate-labs",
                 "repo": "fmt.mo",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             },
             {
               "node_type": "item",
@@ -1700,7 +1801,8 @@
                 "owner": "Demali-876",
                 "repo": "motoko_regex_engine",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             }
           ],
           "description": null,
@@ -1722,7 +1824,8 @@
                 "owner": "NatLabs",
                 "repo": "http-parser.mo",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:43:07.753Z"
             }
           ],
           "description": null,
@@ -1748,7 +1851,8 @@
             "owner": "caffeinelabs",
             "repo": "vessel-package-set",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:43:07.753Z"
         },
         {
           "node_type": "item",
@@ -1763,7 +1867,8 @@
             "owner": "aviate-labs",
             "repo": "package-set",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T23:43:07.753Z"
         },
         {
           "node_type": "item",
@@ -1778,14 +1883,15 @@
             "owner": "aviate-labs",
             "repo": "io.mo",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T23:43:07.753Z"
         }
       ],
       "title": "Registries"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:04:29.759Z",
+    "last_updated": "2026-08-28T23:43:07.753Z",
     "original_repository_info": {
       "archived": false,
       "id": 417071701,

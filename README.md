@@ -45,7 +45,7 @@ Fully functional smart contract.
 
 ### Canister tools
 
-* [ic-blackhole](https://github.com/ninegua/ic-blackhole) ⭐ 53 | 🐛 3 | 🌐 Nix | 📅 2025-01-05 - Once a canister sets its only controller to a black hole, it becomes immutable.
+* [ic-blackhole](https://github.com/ninegua/ic-blackhole) ⭐ 54 | 🐛 3 | 🌐 Nix | 📅 2025-01-05 - Once a canister sets its only controller to a black hole, it becomes immutable.
 * [Canister Tip Jar](https://github.com/ninegua/tipjar) ⭐ 51 | 🐛 4 | 🌐 Motoko | 📅 2026-07-03 - Donate cycles to your favorite canisters on the Internet Computer and keep them live and healthy.
 * [motoko\_top\_up\_canister](https://github.com/ORIGYN-SA/motoko_top_up_canister) ⚠️ Archived - Implementation of a canister called periodically by a Node.js service; that top-up automatically user-defined canisters with cycles.
 * [candid-spaces](https://github.com/matthewhammer/candid-spaces) ⭐ 15 | 🐛 4 | 🌐 Modelica | 📅 2021-06-30 - A general-purpose candid data lake for canisters' data on the IC.
