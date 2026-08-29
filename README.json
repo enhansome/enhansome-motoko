@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Once a canister sets its only controller to a black hole, it becomes immutable and more!",
+                "homepage": null,
                 "id": 383687083,
                 "language": "Nix",
+                "license": "MIT",
                 "last_commit": "2025-01-05T11:48:16Z",
+                "open_issues": 3,
                 "owner": "ninegua",
                 "repo": "ic-blackhole",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -28,12 +33,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Donate cycles to canisters of your choice.",
+                "homepage": "https://tipjar.rocks",
                 "id": 373683303,
                 "language": "Motoko",
+                "license": "MIT",
                 "last_commit": "2026-07-03T06:08:23Z",
+                "open_issues": 4,
                 "owner": "ninegua",
                 "repo": "tipjar",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "canister",
+                  "cycles",
+                  "donation",
+                  "icp",
+                  "internetcomputer"
+                ]
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -44,12 +60,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Canister that tops up cycles to a list of canisters + its javascript script",
+                "homepage": null,
                 "id": 356029722,
                 "language": "Modelica",
+                "license": "Apache-2.0",
                 "last_commit": "2021-04-09T19:52:29Z",
+                "open_issues": 2,
                 "owner": "ORIGYN-SA",
                 "repo": "motoko_top_up_canister",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -60,12 +81,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A candid data lake service for the internet computer.",
+                "homepage": null,
                 "id": 371043956,
                 "language": "Modelica",
+                "license": "Apache-2.0",
                 "last_commit": "2021-06-30T15:15:23Z",
+                "open_issues": 4,
                 "owner": "matthewhammer",
                 "repo": "candid-spaces",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "ic-repl",
+                  "internet-computer",
+                  "motoko"
+                ]
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -76,12 +106,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iCAN : Canister Management Tool",
+                "homepage": "https://icantool.app",
                 "id": 488246153,
                 "language": "Motoko",
+                "license": "Unlicense",
                 "last_commit": "2022-08-15T02:55:36Z",
+                "open_issues": 3,
                 "owner": "PrimLabs",
                 "repo": "iCAN",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             }
@@ -99,12 +134,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DIP20: A fungible token standard for the DFINITY Internet Computer. ",
+                "homepage": null,
                 "id": 351715422,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2022-05-25T10:18:19Z",
+                "open_issues": 1,
                 "owner": "rklb7",
                 "repo": "ic-token",
-                "stars": 85
+                "stars": 85,
+                "topics": [
+                  "dfinity",
+                  "ic",
+                  "internet-computer",
+                  "token"
+                ]
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -115,12 +160,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 375907875,
                 "language": "Motoko",
+                "license": "MIT",
                 "last_commit": "2023-03-23T14:37:15Z",
+                "open_issues": 15,
                 "owner": "Toniq-Labs",
                 "repo": "extendable-token",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -131,12 +181,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Non-fungible token standard for the DFINITY Internet Computer",
+                "homepage": null,
                 "id": 409855379,
                 "language": "Motoko",
+                "license": "MIT",
                 "last_commit": "2022-05-30T04:10:41Z",
+                "open_issues": 1,
                 "owner": "rklb7",
                 "repo": "ic-nft",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "dfinity",
+                  "icp",
+                  "nft"
+                ]
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -147,12 +206,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extendable Token Standard",
+                "homepage": null,
                 "id": 410870326,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2022-03-23T07:02:51Z",
+                "open_issues": 3,
                 "owner": "aviate-labs",
                 "repo": "ext.std",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -163,12 +227,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 672952391,
                 "language": "Motoko",
+                "license": "MIT",
                 "last_commit": "2023-08-22T17:02:12Z",
+                "open_issues": 0,
                 "owner": "noku-team",
                 "repo": "icrc7_motoko",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -179,12 +248,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 753639150,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-08T06:52:09Z",
+                "open_issues": 0,
                 "owner": "Appic-Solutions",
                 "repo": "auto-invest",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -195,12 +269,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "public version of sonic icrc1 token source",
+                "homepage": null,
                 "id": 740820559,
                 "language": "Motoko",
+                "license": "GPL-3.0",
                 "last_commit": "2024-05-10T07:54:28Z",
+                "open_issues": 0,
                 "owner": "sonicdex",
                 "repo": "icrc-1-public",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -211,12 +290,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 385795045,
                 "language": "Modelica",
+                "license": "Apache-2.0",
                 "last_commit": "2021-11-12T02:04:31Z",
+                "open_issues": 0,
                 "owner": "rklb7",
                 "repo": "token-faucet",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             }
@@ -234,12 +318,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "innovative AMM with high Capital Efficiency and simple UX",
+                "homepage": "https://browndex.io/",
                 "id": 768423913,
                 "language": "Motoko",
+                "license": "MIT",
                 "last_commit": "2026-06-04T19:45:29Z",
+                "open_issues": 2,
                 "owner": "BrownFi",
                 "repo": "BrownFi-AMM-ICP",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "defi",
+                  "icp"
+                ]
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             }
@@ -257,12 +349,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multiplayer Reversi Game on Internet Computer",
+                "homepage": "https://ninegua.github.io/reversi",
                 "id": 276725210,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-14T17:35:19Z",
+                "open_issues": 11,
                 "owner": "ninegua",
                 "repo": "reversi",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "game",
+                  "internetcomputer",
+                  "motoko",
+                  "othello",
+                  "reversi"
+                ]
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -273,12 +376,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple example that demonstrates how to build a CRUD application on the Internet Computer using Motoko and React.",
+                "homepage": null,
                 "id": 278703660,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2020-09-01T17:36:23Z",
+                "open_issues": 1,
                 "owner": "enzoh",
                 "repo": "superheroes",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -289,12 +397,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "L Systems on the IC",
+                "homepage": null,
                 "id": 421659177,
                 "language": "Modelica",
+                "license": null,
                 "last_commit": "2021-10-27T03:06:36Z",
+                "open_issues": 0,
                 "owner": "MyceliaNetwork",
                 "repo": "revo",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             }
@@ -312,12 +425,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 719538283,
                 "language": "Motoko",
+                "license": null,
                 "last_commit": "2023-12-05T12:59:54Z",
+                "open_issues": 0,
                 "owner": "lokaverse",
                 "repo": "loka_canister",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             }
@@ -335,12 +453,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open professional network.",
+                "homepage": "https://sdk.dfinity.org",
                 "id": 224717214,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-09T11:14:00Z",
+                "open_issues": 34,
                 "owner": "dfinity",
                 "repo": "linkedup",
-                "stars": 151
+                "stars": 151,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -351,12 +474,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fully on-chain decentralized Q&A Application",
+                "homepage": "https://formyfi.io/",
                 "id": 730322252,
                 "language": "Vue",
+                "license": "NOASSERTION",
                 "last_commit": "2025-07-24T12:51:07Z",
+                "open_issues": 0,
                 "owner": "Talentum-id",
                 "repo": "formyfi",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "internet-computer",
+                  "motoko",
+                  "vuejs"
+                ]
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -367,12 +499,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Anti-Korrupt is an AI-driven educational platform designed to increase global awareness about corruption. The platform offers interactive courses powered by blockchain technology, helping users understand corruption’s impact through AI-assisted learning modules and quizzes.",
+                "homepage": "https://px7id-byaaa-aaaak-albiq-cai.icp0.io",
                 "id": 857299543,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-09T21:33:50Z",
+                "open_issues": 0,
                 "owner": "KezzyNgotho",
                 "repo": "Anti-Korrupt",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "internet-computer"
+                ]
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -383,12 +522,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 780905477,
                 "language": "Motoko",
+                "license": null,
                 "last_commit": "2024-09-11T17:13:22Z",
+                "open_issues": 0,
                 "owner": "johnxiaohe",
                 "repo": "ICP-Spark",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             }
@@ -406,12 +550,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Motoko cdn/storage solution. ie: mini big-map",
+                "homepage": null,
                 "id": 381488821,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-06-07T19:11:47Z",
+                "open_issues": 2,
                 "owner": "gabrielnic",
                 "repo": "motoko-cdn",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -422,12 +571,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 468322814,
                 "language": "Motoko",
+                "license": null,
                 "last_commit": "2022-10-10T14:31:40Z",
+                "open_issues": 1,
                 "owner": "PrimLabs",
                 "repo": "Bucket",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -438,12 +592,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "InternetComputerStorageProtocol",
+                "homepage": null,
                 "id": 485842060,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2022-06-13T09:28:26Z",
+                "open_issues": 0,
                 "owner": "PrimLabs",
                 "repo": "ICSP",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -454,12 +613,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 427067234,
                 "language": "Modelica",
+                "license": null,
                 "last_commit": "2021-11-13T15:54:33Z",
+                "open_issues": 1,
                 "owner": "MyceliaNetwork",
                 "repo": "motoko-document-db",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -470,12 +634,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Motoko DHT Canister",
+                "homepage": "https://sdk.dfinity.org",
                 "id": 261244161,
                 "language": "Modelica",
+                "license": "Apache-2.0",
                 "last_commit": "2020-06-01T20:50:40Z",
+                "open_issues": 0,
                 "owner": "enzoh",
                 "repo": "motoko-dht",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             }
@@ -493,12 +662,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A motoko canister that can server certified HTTP assets",
+                "homepage": "https://ce7vw-haaaa-aaaai-aanva-cai.ic0.app/",
                 "id": 406782551,
                 "language": "Modelica",
+                "license": null,
                 "last_commit": "2021-09-15T16:28:34Z",
+                "open_issues": 0,
                 "owner": "nomeata",
                 "repo": "motoko-certified-http",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -509,12 +683,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spreadsheet-like application for the Internet Computer, written in Motoko.",
+                "homepage": null,
                 "id": 235662314,
                 "language": "Modelica",
+                "license": "Apache-2.0",
                 "last_commit": "2020-03-12T20:58:28Z",
+                "open_issues": 0,
                 "owner": "matthewhammer",
                 "repo": "cleansheets",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -525,12 +704,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fully on-chain decentralized Hrms . Send and Receive Bitcoin. Single & Bulk Payments. Pay Now or schedule payments.",
+                "homepage": "https://ilcnp-myaaa-aaaal-qjdxa-cai.icp0.io/",
                 "id": 743253407,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2025-04-16T07:13:27Z",
+                "open_issues": 1,
                 "owner": "cosmasken",
                 "repo": "ic-payroll",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "ckbtc",
+                  "dashboard",
+                  "encode-club",
+                  "icp",
+                  "internet-computer",
+                  "internet-computer-protocol",
+                  "motoko",
+                  "on-chain",
+                  "react",
+                  "tailwind",
+                  "tailwindcss",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -541,12 +738,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IC events at scale",
+                "homepage": null,
                 "id": 419530128,
                 "language": "Modelica",
+                "license": null,
                 "last_commit": "2021-10-21T00:28:51Z",
+                "open_issues": 0,
                 "owner": "MyceliaNetwork",
                 "repo": "relay",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             }
@@ -564,12 +766,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A scalable video sharing service.",
+                "homepage": "http://sdk.dfinity.org",
                 "id": 365059366,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-09T12:04:30Z",
+                "open_issues": 33,
                 "owner": "dfinity",
                 "repo": "cancan",
-                "stars": 337
+                "stars": 337,
+                "topics": [
+                  "canister",
+                  "dfx",
+                  "ic",
+                  "internet-computer",
+                  "motoko"
+                ]
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             }
@@ -593,12 +806,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IC SDK: a Software Development Kit for creating and managing canister smart contracts on the ICP blockchain.",
+                "homepage": "https://internetcomputer.org/docs/current/home",
                 "id": 198344153,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-28T08:01:46Z",
+                "open_issues": 70,
                 "owner": "dfinity",
                 "repo": "sdk",
-                "stars": 204
+                "stars": 204,
+                "topics": [
+                  "blockchain",
+                  "canister",
+                  "dfx",
+                  "icp",
+                  "internet-computer",
+                  "rust",
+                  "sdk",
+                  "smart-contract"
+                ]
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -609,12 +836,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The original package manager for Motoko",
+                "homepage": null,
                 "id": 248089583,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-26T12:06:45Z",
+                "open_issues": 10,
                 "owner": "caffeinelabs",
                 "repo": "vessel",
-                "stars": 109
+                "stars": 109,
+                "topics": [
+                  "motoko",
+                  "package-manager"
+                ]
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             }
@@ -632,12 +867,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Motoko playground",
+                "homepage": "https://play.motoko.org",
                 "id": 294874238,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-08T14:46:05Z",
+                "open_issues": 25,
                 "owner": "dfinity",
                 "repo": "motoko-playground",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -648,12 +888,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IntelliJ IDEA Motoko support",
+                "homepage": null,
                 "id": 367580002,
                 "language": "Lex",
+                "license": null,
                 "last_commit": "2023-07-05T19:13:24Z",
+                "open_issues": 1,
                 "owner": "ununhexium",
                 "repo": "idea-motoko-plugin",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             }
@@ -676,24 +921,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 291975718,
                     "language": "Modelica",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-02-11T14:50:14Z",
+                    "open_issues": 0,
                     "owner": "kritzcreek",
                     "repo": "ic101",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:07.753Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://mops.one/matchers",
                 "id": 275827943,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-11T08:31:41Z",
+                "open_issues": 0,
                 "owner": "kritzcreek",
                 "repo": "motoko-matchers",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -704,12 +959,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Internet Computer Mini Terminal",
+                "homepage": null,
                 "id": 267912171,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-27T14:04:37Z",
+                "open_issues": 0,
                 "owner": "matthewhammer",
                 "repo": "ic-mini-terminal",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "internet-computer",
+                  "motoko",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -720,12 +984,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Long-running tests for services on the Internet Computer that also run there",
+                "homepage": null,
                 "id": 278435462,
                 "language": "Modelica",
+                "license": "Apache-2.0",
                 "last_commit": "2020-09-15T12:37:20Z",
+                "open_issues": 2,
                 "owner": "matthewhammer",
                 "repo": "motoko-bigtest",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -736,12 +1005,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for rendering color schemes and graphics to the terminal, based on the ANSI ASCII standard in Motoko",
+                "homepage": null,
                 "id": 454928812,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2022-06-08T07:06:31Z",
+                "open_issues": 0,
                 "owner": "ByronBecker",
                 "repo": "motoko-color",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             }
@@ -765,12 +1039,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Motoko QR Package",
+                "homepage": "https://sdk.dfinity.org",
                 "id": 220713362,
                 "language": "Modelica",
+                "license": "Apache-2.0",
                 "last_commit": "2021-05-21T00:03:56Z",
+                "open_issues": 2,
                 "owner": "enzoh",
                 "repo": "motoko-qr",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -781,12 +1060,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A time library for the Motoko programming language.",
+                "homepage": null,
                 "id": 337159564,
                 "language": "Modelica",
+                "license": "Apache-2.0",
                 "last_commit": "2021-02-08T17:57:15Z",
+                "open_issues": 1,
                 "owner": "enzoh",
                 "repo": "chronosphere",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -797,12 +1081,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Incremental Computation via Adapton, in Motoko",
+                "homepage": null,
                 "id": 257666186,
                 "language": "Modelica",
+                "license": "Apache-2.0",
                 "last_commit": "2021-12-27T17:56:38Z",
+                "open_issues": 2,
                 "owner": "matthewhammer",
                 "repo": "motoko-adapton",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -813,12 +1102,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A parsec parser combinator library for Motoko",
+                "homepage": null,
                 "id": 250324740,
                 "language": "Modelica",
+                "license": "MIT",
                 "last_commit": "2021-04-09T10:37:20Z",
+                "open_issues": 0,
                 "owner": "crusso",
                 "repo": "mo-parsec",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -829,12 +1123,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parser Combinator Library for Motoko",
+                "homepage": null,
                 "id": 398790922,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-09T18:15:59Z",
+                "open_issues": 1,
                 "owner": "aviate-labs",
                 "repo": "parser-combinators.mo",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -845,12 +1144,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sorted Data Structures in Motoko",
+                "homepage": null,
                 "id": 404041337,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-16T17:18:39Z",
+                "open_issues": 0,
                 "owner": "aviate-labs",
                 "repo": "sorted.mo",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -861,12 +1165,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Strongly Connected Components algorithm for Motoko",
+                "homepage": null,
                 "id": 346280677,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2022-01-03T16:31:54Z",
+                "open_issues": 0,
                 "owner": "nomeata",
                 "repo": "motoko-scc",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -877,12 +1186,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Splay tree in Motoko",
+                "homepage": null,
                 "id": 379481512,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-30T19:13:31Z",
+                "open_issues": 0,
                 "owner": "chenyan2002",
                 "repo": "motoko-splay",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             }
@@ -900,12 +1214,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bitcoin library for Motoko",
+                "homepage": null,
                 "id": 456218454,
                 "language": "Modelica",
+                "license": "Apache-2.0",
                 "last_commit": "2023-02-14T22:57:18Z",
+                "open_issues": 1,
                 "owner": "tgalal",
                 "repo": "motoko-bitcoin",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "base58",
+                  "bitcoin",
+                  "cryptography",
+                  "hmac",
+                  "ripemd160",
+                  "secp256k1"
+                ]
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -916,12 +1242,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The SHA Package",
+                "homepage": "https://sdk.dfinity.org",
                 "id": 256900644,
                 "language": "Modelica",
+                "license": "Apache-2.0",
                 "last_commit": "2021-12-30T11:58:49Z",
+                "open_issues": 3,
                 "owner": "enzoh",
                 "repo": "motoko-sha",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -932,12 +1263,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 447476725,
                 "language": "Motoko",
+                "license": null,
                 "last_commit": "2023-07-19T08:20:10Z",
+                "open_issues": 1,
                 "owner": "herumi",
                 "repo": "ecdsa-motoko",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -948,12 +1284,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Crypto Package for Motoko",
+                "homepage": null,
                 "id": 426156457,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-15T16:08:12Z",
+                "open_issues": 2,
                 "owner": "aviate-labs",
                 "repo": "crypto.mo",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "aes",
+                  "hash",
+                  "hmac",
+                  "sha224",
+                  "sha256"
+                ]
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -964,12 +1311,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EVM transactions creation, encoding, and decoding library in pure Motoko",
+                "homepage": null,
                 "id": 629073240,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-19T21:35:54Z",
+                "open_issues": 0,
                 "owner": "av1ctor",
                 "repo": "evm-txs.mo",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "ethereum",
+                  "evm",
+                  "icp",
+                  "internet-computer",
+                  "motoko",
+                  "motoko-language"
+                ]
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -980,12 +1339,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 369418006,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-23T07:01:06Z",
+                "open_issues": 0,
                 "owner": "flyq",
                 "repo": "motoko-sha224",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -996,12 +1360,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pseudo Random Number Generators in Motoko",
+                "homepage": null,
                 "id": 402055435,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-16T17:39:07Z",
+                "open_issues": 1,
                 "owner": "aviate-labs",
                 "repo": "rand.mo",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1012,12 +1381,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hash Package for Motoko",
+                "homepage": null,
                 "id": 414128480,
                 "language": "Modelica",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-14T03:14:43Z",
+                "open_issues": 0,
                 "owner": "aviate-labs",
                 "repo": "hash.mo",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1028,12 +1402,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sha2 family in Motoko",
+                "homepage": null,
                 "id": 443785410,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2022-01-15T19:28:11Z",
+                "open_issues": 0,
                 "owner": "timohanke",
                 "repo": "motoko-sha2",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1044,12 +1423,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Motoko port of libsecp256k1",
+                "homepage": null,
                 "id": 628409325,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-02T16:16:30Z",
+                "open_issues": 2,
                 "owner": "av1ctor",
                 "repo": "libsecp256k1.mo",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "icp",
+                  "motoko",
+                  "motoko-language",
+                  "secp256k1"
+                ]
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1060,12 +1449,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 734959015,
                 "language": "Motoko",
+                "license": null,
                 "last_commit": "2023-12-25T10:45:54Z",
+                "open_issues": 0,
                 "owner": "flyq",
                 "repo": "ecdsa_poc",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             }
@@ -1083,12 +1477,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The original Motoko base library (replaced by `core`)",
+                "homepage": "https://github.com/dfinity/motoko-core",
                 "id": 255664515,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-02T08:05:05Z",
+                "open_issues": 158,
                 "owner": "caffeinelabs",
                 "repo": "motoko-base",
-                "stars": 492
+                "stars": 492,
+                "topics": [
+                  "internet-computer",
+                  "library",
+                  "modules",
+                  "motoko"
+                ]
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1099,12 +1503,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A framework for constructing CRUD services in Motoko for the Internet Computer.",
+                "homepage": null,
                 "id": 278125930,
                 "language": "Modelica",
+                "license": "Apache-2.0",
                 "last_commit": "2021-05-13T19:16:27Z",
+                "open_issues": 9,
                 "owner": "matthewhammer",
                 "repo": "motoko-crud",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1115,12 +1524,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Motoko library for all things related to certification",
+                "homepage": "https://nomeata.github.io/ic-certification/",
                 "id": 355925926,
                 "language": "Nix",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-18T18:30:20Z",
+                "open_issues": 4,
                 "owner": "nomeata",
                 "repo": "ic-certification",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1131,12 +1545,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generic Motoko library for sequential data",
+                "homepage": null,
                 "id": 288486037,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-17T21:23:34Z",
+                "open_issues": 2,
                 "owner": "matthewhammer",
                 "repo": "motoko-sequence",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "internet-computer",
+                  "motoko",
+                  "sequential-data"
+                ]
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1147,12 +1570,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generic Motoko library for sequential data",
+                "homepage": null,
                 "id": 288486037,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-17T21:23:34Z",
+                "open_issues": 2,
                 "owner": "matthewhammer",
                 "repo": "motoko-sequence",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "internet-computer",
+                  "motoko",
+                  "sequential-data"
+                ]
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1163,12 +1595,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stable HashMaps in Motoko",
+                "homepage": null,
                 "id": 464783659,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2022-05-18T20:07:29Z",
+                "open_issues": 1,
                 "owner": "canscale",
                 "repo": "StableHashMap",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1179,12 +1616,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Package that allows you to create a Principal from a Blob.",
+                "homepage": null,
                 "id": 396015931,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-16T17:24:08Z",
+                "open_issues": 0,
                 "owner": "aviate-labs",
                 "repo": "principal.mo",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1195,12 +1637,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stable Buffers in Motoko",
+                "homepage": null,
                 "id": 474768036,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-10T06:52:10Z",
+                "open_issues": 3,
                 "owner": "canscale",
                 "repo": "StableBuffer",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1211,12 +1658,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "https://forum.dfinity.org/t/icdevs-org-bounty-24-stablebtree-mokoko-up-to-10k/14867",
+                "homepage": null,
                 "id": 537456669,
                 "language": "Motoko",
+                "license": "MIT",
                 "last_commit": "2023-10-06T02:14:21Z",
+                "open_issues": 3,
                 "owner": "sardariuss",
                 "repo": "MotokoStableBTree",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1227,12 +1679,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generic Bijective Maps in Motoko",
+                "homepage": null,
                 "id": 401830285,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-16T17:45:17Z",
+                "open_issues": 0,
                 "owner": "aviate-labs",
                 "repo": "bimap.mo",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1243,12 +1700,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A functional BTreeMap that can be used with a stable variable in heap memory",
+                "homepage": null,
                 "id": 559092899,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-01T01:15:17Z",
+                "open_issues": 1,
                 "owner": "canscale",
                 "repo": "StableHeapBTreeMap",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1259,12 +1721,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extended Array Package for Motoko",
+                "homepage": null,
                 "id": 414099703,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-15T21:04:50Z",
+                "open_issues": 0,
                 "owner": "aviate-labs",
                 "repo": "array.mo",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1275,12 +1742,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DateTime library for Motoko",
+                "homepage": null,
                 "id": 629562657,
                 "language": "Motoko",
+                "license": "MIT",
                 "last_commit": "2025-09-06T21:45:32Z",
+                "open_issues": 5,
                 "owner": "edjCase",
                 "repo": "motoko_datetime",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1291,12 +1763,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stable Red Black Trees in Motoko",
+                "homepage": null,
                 "id": 467780528,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-15T16:21:26Z",
+                "open_issues": 2,
                 "owner": "canscale",
                 "repo": "StableRBTree",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1307,12 +1784,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stable and mutable singly and doubly linked lists in Motoko",
+                "homepage": null,
                 "id": 479177273,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-08T00:17:57Z",
+                "open_issues": 0,
                 "owner": "canscale",
                 "repo": "LinkedList",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1323,12 +1805,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Queues in Motoko",
+                "homepage": null,
                 "id": 408714820,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-16T08:06:19Z",
+                "open_issues": 0,
                 "owner": "aviate-labs",
                 "repo": "queue.mo",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1339,12 +1826,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Motoko hashmap that fixes the key type to Text",
+                "homepage": "https://kritzcreek.github.io/motoko-text-map",
                 "id": 354084900,
                 "language": "Modelica",
+                "license": "Apache-2.0",
                 "last_commit": "2021-04-11T10:38:28Z",
+                "open_issues": 0,
                 "owner": "kritzcreek",
                 "repo": "motoko-text-map",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1355,12 +1847,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Motoko module of a mutable queue data structure",
+                "homepage": null,
                 "id": 450395541,
                 "language": "Motoko",
+                "license": "MIT",
                 "last_commit": "2026-06-21T05:47:49Z",
+                "open_issues": 0,
                 "owner": "ninegua",
                 "repo": "mutable-queue.mo",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1371,12 +1868,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 406749807,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-16T08:10:39Z",
+                "open_issues": 0,
                 "owner": "aviate-labs",
                 "repo": "stable.mo",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             }
@@ -1394,12 +1896,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " A fungible token standard developed by the Ledger & Tokenization working group for the IC.",
+                "homepage": null,
                 "id": 496339250,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-11T08:50:03Z",
+                "open_issues": 32,
                 "owner": "dfinity",
                 "repo": "ICRC-1",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1410,12 +1917,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UUID Generator for Motoko",
+                "homepage": null,
                 "id": 400579051,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-16T17:07:47Z",
+                "open_issues": 2,
                 "owner": "aviate-labs",
                 "repo": "uuid.mo",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1426,12 +1938,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JSON for Motoko",
+                "homepage": null,
                 "id": 399133516,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-09T18:20:36Z",
+                "open_issues": 6,
                 "owner": "aviate-labs",
                 "repo": "json.mo",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1442,12 +1959,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Encoding Package for Motoko",
+                "homepage": null,
                 "id": 393350797,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-15T21:53:34Z",
+                "open_issues": 0,
                 "owner": "aviate-labs",
                 "repo": "encoding.mo",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "base32",
+                  "base64",
+                  "hex",
+                  "motoko"
+                ]
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1458,12 +1985,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 524309518,
                 "language": "Motoko",
+                "license": null,
                 "last_commit": "2025-12-09T00:13:03Z",
+                "open_issues": 0,
                 "owner": "edjCase",
                 "repo": "motoko_candid",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1474,12 +2006,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 517515672,
                 "language": "Motoko",
+                "license": "MIT",
                 "last_commit": "2025-09-06T20:48:51Z",
+                "open_issues": 0,
                 "owner": "edjCase",
                 "repo": "motoko_cbor",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1490,12 +2027,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 393025085,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-23T06:59:29Z",
+                "open_issues": 1,
                 "owner": "flyq",
                 "repo": "motoko-base32",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1506,12 +2048,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 249762439,
                 "language": "Modelica",
+                "license": null,
                 "last_commit": "2020-04-14T19:35:11Z",
+                "open_issues": 1,
                 "owner": "kritzcreek",
                 "repo": "motoko-json",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1522,12 +2069,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "XML encoding/decoding library in motoko",
+                "homepage": null,
                 "id": 587147015,
                 "language": "Motoko",
+                "license": "MIT",
                 "last_commit": "2025-09-06T20:27:27Z",
+                "open_issues": 0,
                 "owner": "edjCase",
                 "repo": "motoko_xml",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1538,12 +2090,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lexicographic integer encoding in Motoko",
+                "homepage": null,
                 "id": 542247194,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-02T01:23:47Z",
+                "open_issues": 2,
                 "owner": "canscale",
                 "repo": "lexicographic-encoding",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             }
@@ -1561,12 +2118,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graphical data models in Motoko",
+                "homepage": null,
                 "id": 288011882,
                 "language": "Modelica",
+                "license": "Apache-2.0",
                 "last_commit": "2021-12-19T17:40:59Z",
+                "open_issues": 1,
                 "owner": "matthewhammer",
                 "repo": "motoko-graph",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1577,12 +2139,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SVG Generation for Motoko",
+                "homepage": null,
                 "id": 404853241,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-16T08:38:24Z",
+                "open_issues": 1,
                 "owner": "aviate-labs",
                 "repo": "svg.mo",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1593,12 +2160,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Simple 2D drawing and animation in Motoko language",
+                "homepage": null,
                 "id": 257644481,
                 "language": "Modelica",
+                "license": "Apache-2.0",
                 "last_commit": "2021-06-09T20:52:05Z",
+                "open_issues": 0,
                 "owner": "matthewhammer",
                 "repo": "motoko-redraw",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             }
@@ -1616,12 +2188,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Motoko library to help create an append-only logger actor",
+                "homepage": null,
                 "id": 450371326,
                 "language": "Motoko",
+                "license": "MIT",
                 "last_commit": "2026-06-21T17:39:15Z",
+                "open_issues": 1,
                 "owner": "ninegua",
                 "repo": "ic-logger",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1632,12 +2209,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pretty printing library for Motoko",
+                "homepage": "https://kritzcreek.github.io/motoko-pretty",
                 "id": 365486417,
                 "language": "Modelica",
+                "license": "Apache-2.0",
                 "last_commit": "2021-05-15T14:22:18Z",
+                "open_issues": 0,
                 "owner": "kritzcreek",
                 "repo": "motoko-pretty",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             }
@@ -1655,12 +2237,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An advanced starter project for interacting with Ethereum on the Internet Computer (Beta)",
+                "homepage": "https://xm3ir-rqaaa-aaaap-abhqq-cai.icp0.io/",
                 "id": 743278610,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-24T10:58:34Z",
+                "open_issues": 8,
                 "owner": "vporton",
                 "repo": "passport-client-dfinity",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             }
@@ -1678,12 +2265,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 664194124,
                 "language": "Motoko",
+                "license": null,
                 "last_commit": "2024-08-25T10:32:56Z",
+                "open_issues": 3,
                 "owner": "Expeera",
                 "repo": "IC-PayPortal",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             }
@@ -1701,12 +2293,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 468322814,
                 "language": "Motoko",
+                "license": null,
                 "last_commit": "2022-10-10T14:31:40Z",
+                "open_issues": 1,
                 "owner": "PrimLabs",
                 "repo": "Bucket",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1717,12 +2314,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interface of the Asset Storage Canister",
+                "homepage": null,
                 "id": 398081188,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2022-01-13T12:38:49Z",
+                "open_issues": 2,
                 "owner": "aviate-labs",
                 "repo": "asset-storage.poc",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             }
@@ -1740,12 +2342,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A template for creating Motoko libraries",
+                "homepage": null,
                 "id": 346098312,
                 "language": "Modelica",
+                "license": "Apache-2.0",
                 "last_commit": "2021-05-27T07:26:51Z",
+                "open_issues": 0,
                 "owner": "kritzcreek",
                 "repo": "motoko-library-template",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             }
@@ -1763,12 +2370,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Regexes for Motoko",
+                "homepage": null,
                 "id": 345698804,
                 "language": "Modelica",
+                "license": "Apache-2.0",
                 "last_commit": "2021-03-09T14:45:41Z",
+                "open_issues": 0,
                 "owner": "kritzcreek",
                 "repo": "motoko-regex",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1779,12 +2391,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Formatting of basis data types in Motoko",
+                "homepage": null,
                 "id": 409885022,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-16T08:13:49Z",
+                "open_issues": 0,
                 "owner": "aviate-labs",
                 "repo": "fmt.mo",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             },
@@ -1795,12 +2412,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Regex Engine built in Motoko Programming Language",
+                "homepage": "https://demali-876.github.io/motoko_regex_engine/",
                 "id": 851810762,
                 "language": "Motoko",
+                "license": "MIT",
                 "last_commit": "2025-05-07T15:30:37Z",
+                "open_issues": 1,
                 "owner": "Demali-876",
                 "repo": "motoko_regex_engine",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "engine",
+                  "internet-computer",
+                  "motoko-language",
+                  "regular-expression"
+                ]
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             }
@@ -1818,12 +2445,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "HTTP Request Parser for Motoko",
+                "homepage": null,
                 "id": 452068590,
                 "language": "Motoko",
+                "license": "MIT",
                 "last_commit": "2025-08-03T03:21:12Z",
+                "open_issues": 1,
                 "owner": "NatLabs",
                 "repo": "http-parser.mo",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "http",
+                  "motoko"
+                ]
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
             }
@@ -1845,12 +2480,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The official community package-set for vessel",
+            "homepage": "https://dfinity.github.io/vessel-package-set/",
             "id": 251294588,
             "language": "Dhall",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-10T14:16:27Z",
+            "open_issues": 5,
             "owner": "caffeinelabs",
             "repo": "vessel-package-set",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:07.753Z"
         },
@@ -1861,12 +2501,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aviate Labs' package set for Vessel",
+            "homepage": null,
             "id": 412398271,
             "language": "Dhall",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-19T18:01:51Z",
+            "open_issues": 1,
             "owner": "aviate-labs",
             "repo": "package-set",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:07.753Z"
         },
@@ -1877,12 +2522,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "I/O Primitives for Motoko",
+            "homepage": null,
             "id": 399873911,
             "language": "Motoko",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-15T21:04:35Z",
+            "open_issues": 0,
             "owner": "aviate-labs",
             "repo": "io.mo",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:07.753Z"
         }
@@ -1891,15 +2541,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:43:07.753Z",
+    "last_updated": "2026-08-29T04:56:30.153Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Motoko code and resources.",
+      "homepage": null,
       "id": 417071701,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-11-25T09:46:48Z",
+      "open_issues": 0,
       "owner": "ic123-xyz",
       "repo": "awesome-motoko",
-      "stars": 118
+      "stars": 118,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "dfinity",
+        "ic",
+        "internetcomputer",
+        "motoko",
+        "motoko-language"
+      ]
     },
     "original_repository_sha": "1707b681dd4b822242d51fb698a88d6470da28ca",
     "enhanced_repository": "enhansome/enhansome-motoko",
