@@ -692,7 +692,7 @@
                 "open_issues": 0,
                 "owner": "matthewhammer",
                 "repo": "cleansheets",
-                "stars": 12,
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
@@ -709,7 +709,7 @@
                 "id": 743253407,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2025-04-16T07:13:27Z",
+                "last_commit": "2026-09-06T12:42:18Z",
                 "open_issues": 1,
                 "owner": "cosmasken",
                 "repo": "ic-payroll",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:57:43.965Z",
+    "last_updated": "2026-09-06T17:21:58.487Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Motoko code and resources.",
