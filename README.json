@@ -358,7 +358,7 @@
                 "open_issues": 11,
                 "owner": "ninegua",
                 "repo": "reversi",
-                "stars": 71,
+                "stars": 72,
                 "topics": [
                   "game",
                   "internetcomputer",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:27:20.465Z",
+    "last_updated": "2026-09-13T17:43:57.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Motoko code and resources.",

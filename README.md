@@ -74,7 +74,7 @@ Fully functional smart contract.
 
 ### Games
 
-* [reversi](https://github.com/ninegua/reversi) ⭐ 71 | 🐛 11 | 🌐 JavaScript | 📅 2023-03-14 - Multiplayer Reversi Game on Internet Computer.
+* [reversi](https://github.com/ninegua/reversi) ⭐ 72 | 🐛 11 | 🌐 JavaScript | 📅 2023-03-14 - Multiplayer Reversi Game on Internet Computer.
 * [superheroes](https://github.com/enzoh/superheroes) ⭐ 28 | 🐛 1 | 🌐 JavaScript | 📅 2020-09-01 - A simple example that demonstrates how to build a CRUD application on the Internet Computer using Motoko and React.
 * [revo](https://github.com/DepartureLabsIC/revo) ⭐ 1 | 🐛 0 | 🌐 Modelica | 📅 2021-10-27 - A drawing game on Internet Computer.
 
@@ -271,4 +271,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
