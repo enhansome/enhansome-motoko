@@ -117,7 +117,7 @@ Fully functional smart contract.
 
 ### Build system
 
-* [dfx](https://github.com/dfinity/sdk/tree/master/src/dfx) ⭐ 204 | 🐛 71 | 🌐 Rust | 📅 2026-09-23 - The DFINITY command-line execution environment (dfx) is the primary tool for creating, deploying, and managing the dapps you develop for the Internet Computer blockchain.
+* [dfx](https://github.com/dfinity/sdk/tree/master/src/dfx) ⭐ 204 | 🐛 70 | 🌐 Rust | 📅 2026-09-24 - The DFINITY command-line execution environment (dfx) is the primary tool for creating, deploying, and managing the dapps you develop for the Internet Computer blockchain.
 * [Vessel package manager](https://github.com/dfinity/vessel) ⚠️ Archived - Add and manage packages, libraries, and dependencies for your Motoko programs.
 
 ### IDEs
@@ -258,7 +258,7 @@ A registry allows you to publish your Rust libraries as crate packages, to share
   * [Introducing the Internet Computer](https://smartcontracts.org/docs/introduction/welcome.html) - A comprehensive series of documents that introduce Internet Computer.
   * [Mastering Motoko Book](https://github.com/niklabh/motokobook) ⭐ 2 | 🐛 1 | 🌐 HTML | 📅 2026-06-21 - The Definitive Guide to Decentralized Application Engineering on the Internet Computer
   * [Motoko Bootcamp](https://github.com/motoko-bootcamp/education) - Lectures and resources from the Motoko Bootcamp.
-  * [motoko by example](https://github.com/dfinity/examples/tree/master/motoko) ⭐ 613 | 🐛 23 | 🌐 Rust | 📅 2026-09-23 - An officially maintained collection of short Motoko examples.
+  * [motoko by example](https://github.com/dfinity/examples/tree/master/motoko) ⭐ 613 | 🐛 22 | 🌐 Rust | 📅 2026-09-23 - An officially maintained collection of short Motoko examples.
   * [The Motoko Programming Language Book](https://web3.motoko-book.dev/) - A guide for writing Web3 Software on the Internet Computer.
 
 ## Contribute
@@ -271,4 +271,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
