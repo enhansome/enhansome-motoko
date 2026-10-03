@@ -609,7 +609,7 @@
             {
               "node_type": "item",
               "title": "motoko-document-db",
-              "description": null,
+              "description": "MyceliaNetwork/motoko-document-db",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:33:56.124Z",
+    "last_updated": "2026-10-03T04:57:55.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Motoko code and resources.",
