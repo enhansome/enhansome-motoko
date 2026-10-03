@@ -117,7 +117,7 @@ Fully functional smart contract.
 
 ### Build system
 
-* [dfx](https://github.com/dfinity/sdk/tree/master/src/dfx) ⭐ 204 | 🐛 71 | 🌐 Rust | 📅 2026-09-24 - The DFINITY command-line execution environment (dfx) is the primary tool for creating, deploying, and managing the dapps you develop for the Internet Computer blockchain.
+* [dfx](https://github.com/dfinity/sdk/tree/master/src/dfx) ⭐ 204 | 🐛 72 | 🌐 Rust | 📅 2026-09-24 - The DFINITY command-line execution environment (dfx) is the primary tool for creating, deploying, and managing the dapps you develop for the Internet Computer blockchain.
 * [Vessel package manager](https://github.com/dfinity/vessel) ⚠️ Archived - Add and manage packages, libraries, and dependencies for your Motoko programs.
 
 ### IDEs
