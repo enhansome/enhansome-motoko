@@ -130,7 +130,7 @@ Fully functional smart contract.
 
 ### Testing
 
-* [motoko-matchers](https://github.com/kritzcreek/motoko-matchers) ⭐ 28 | 🐛 0 | 🌐 Motoko | 📅 2025-09-11 - Composable assertions for unit testing.
+* [motoko-matchers](https://github.com/kritzcreek/motoko-matchers) ⭐ 28 | 🐛 1 | 🌐 Motoko | 📅 2025-09-11 - Composable assertions for unit testing.
   * [ic101](https://github.com/kritzcreek/ic101) ⭐ 3 | 🐛 0 | 🌐 Modelica | 📅 2021-02-11 - This repository demonstrates how to use the matchers library to unit test canisters on the Internet Computer.
 * [ic-mini-terminal](https://github.com/matthewhammer/ic-mini-terminal) ⭐ 21 | 🐛 0 | 🌐 Rust | 📅 2022-12-27 - Minimal keyboard input (⌨) and graphical output (📺) for programs on the Internet Computer.
 * [motoko-bigtest](https://github.com/matthewhammer/motoko-bigtest) ⭐ 12 | 🐛 2 | 🌐 Modelica | 📅 2020-09-15 - Long-running tests as/for IC services, via a Motoko-based DSL.
@@ -271,4 +271,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._

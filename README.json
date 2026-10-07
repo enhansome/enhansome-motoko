@@ -944,7 +944,7 @@
                 "language": "Motoko",
                 "license": "Apache-2.0",
                 "last_commit": "2025-09-11T08:31:41Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "kritzcreek",
                 "repo": "motoko-matchers",
                 "stars": 28,
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T19:52:13.923Z",
+    "last_updated": "2026-10-07T20:13:03.463Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Motoko code and resources.",
