@@ -1483,7 +1483,7 @@
                 "language": "Motoko",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-02T08:05:05Z",
-                "open_issues": 158,
+                "open_issues": 157,
                 "owner": "caffeinelabs",
                 "repo": "motoko-base",
                 "stars": 492,
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T18:55:30.250Z",
+    "last_updated": "2026-10-11T19:12:29.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Motoko code and resources.",
