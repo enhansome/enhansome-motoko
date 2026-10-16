@@ -1905,7 +1905,7 @@
                 "open_issues": 32,
                 "owner": "dfinity",
                 "repo": "ICRC-1",
-                "stars": 89,
+                "stars": 90,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T18:41:53.659Z",
+    "last_updated": "2026-10-16T18:26:24.314Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Motoko code and resources.",
