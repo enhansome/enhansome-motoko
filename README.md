@@ -157,7 +157,7 @@ Fully functional smart contract.
 * [motoko-SHA](https://github.com/aviate-labs/crypto.mo) ⭐ 10 | 🐛 2 | 🌐 Motoko | 📅 2023-03-15 - SHA224 and SHA256 hash algorithms as defined in FIPS 180-4.
 * [evm-txs](https://github.com/av1ctor/evm-txs.mo) ⭐ 9 | 🐛 0 | 🌐 Motoko | 📅 2023-07-19 - EVM transactions creation, encoding, and decoding library in pure Motoko.
 * [motoko-sha224](https://github.com/flyq/motoko-sha224) ⭐ 5 | 🐛 0 | 🌐 Motoko | 📅 2023-12-23 - A Sha224 implements for Motoko.
-* [rand](https://github.com/aviate-labs/rand.mo) ⭐ 5 | 🐛 1 | 🌐 Motoko | 📅 2022-12-16 - Pseudo Random Number Generators.
+* [rand](https://github.com/aviate-labs/rand.mo) ⭐ 4 | 🐛 1 | 🌐 Motoko | 📅 2022-12-16 - Pseudo Random Number Generators.
 * [motoko-CRC32](https://github.com/aviate-labs/hash.mo) ⭐ 2 | 🐛 0 | 🌐 Modelica | 📅 2023-03-14 - Implements the 32-bit cyclic redundancy check, or CRC-32, checksum.
 * [motoko-sha2](https://github.com/timohanke/motoko-sha2) ⭐ 2 | 🐛 0 | 🌐 Motoko | 📅 2022-01-15 - All hash functions from the SHA2 family (sha224, sha256, sha512-224, sha512-256, sha384, sha512).
 * [libsecp256k1.mo](https://github.com/av1ctor/libsecp256k1.mo) ⭐ 1 | 🐛 2 | 🌐 Motoko | 📅 2023-05-02 - Motoko port of libsecp256k1.
@@ -175,7 +175,7 @@ Fully functional smart contract.
 * [Principal](https://github.com/aviate-labs/principal.mo) ⭐ 13 | 🐛 0 | 🌐 Motoko | 📅 2022-12-16 - Provides a wrapper around the [base principal module](https://github.com/dfinity/motoko-base/blob/master/src/Principal.mo) ⚠️ Archived.
 * [Stable Buffers](https://github.com/canscale/StableBuffer) ⭐ 13 | 🐛 3 | 🌐 Motoko | 📅 2023-11-10 - Stable (Heap-based) Buffers in Motoko.
 * [MotokoStableBTree](https://github.com/sardariuss/MotokoStableBTree) ⭐ 11 | 🐛 3 | 🌐 Motoko | 📅 2023-10-06 – Stable Memory Based BTree.
-* [motoko-BiMap](https://github.com/aviate-labs/bimap.mo) ⭐ 7 | 🐛 0 | 🌐 Motoko | 📅 2022-12-16 - A bimap (or "bidirectional map") is a map that preserves the uniqueness of its values as well as that of its keys.
+* [motoko-BiMap](https://github.com/aviate-labs/bimap.mo) ⭐ 6 | 🐛 0 | 🌐 Motoko | 📅 2022-12-16 - A bimap (or "bidirectional map") is a map that preserves the uniqueness of its values as well as that of its keys.
 * [Stable BTree Map](https://github.com/canscale/StableHeapBTreeMap) ⭐ 5 | 🐛 1 | 🌐 Motoko | 📅 2024-01-01 - Stable (Heap-based) BTreeMaps in Motoko.
 * [array](https://github.com/aviate-labs/array.mo) ⭐ 4 | 🐛 0 | 🌐 Motoko | 📅 2022-12-15 - Extended Array Package for Motoko.
 * [motoko\_datetime](https://github.com/edjcase/motoko_datetime) ⭐ 4 | 🐛 5 | 🌐 Motoko | 📅 2025-09-06 - Datetime library. Support for UTC, local timezones, locales and basic datetime operations/structures
@@ -191,7 +191,7 @@ Fully functional smart contract.
 
 * [Account.mo](https://github.com/dfinity/ICRC-1/blob/main/ref/Account.mo) ⭐ 90 | 🐛 32 | 🌐 Rust | 📅 2026-05-11 – ICRC1 Account En/Decoding
 * [motoko-UUID](https://github.com/aviate-labs/uuid.mo) ⭐ 20 | 🐛 2 | 🌐 Motoko | 📅 2022-12-16 - Generation of UUIDs based on RFC 4122.
-* [json package](https://github.com/aviate-labs/json.mo) ⭐ 19 | 🐛 6 | 🌐 Motoko | 📅 2024-02-09 - JSON for Motoko.
+* [json package](https://github.com/aviate-labs/json.mo) ⭐ 18 | 🐛 6 | 🌐 Motoko | 📅 2024-02-09 - JSON for Motoko.
 * [motoko-Encode](https://github.com/aviate-labs/encoding.mo) ⭐ 11 | 🐛 0 | 🌐 Motoko | 📅 2022-12-15 - Base32, Hex and Binary Library for the Motoko.
 * [motoko\_candid](https://github.com/edjcase/motoko_candid) ⭐ 9 | 🐛 0 | 🌐 Motoko | 📅 2025-12-09 - CANDID encoding/decoding library
 * [motoko\_cbor](https://github.com/edjcase/motoko_cbor) ⭐ 6 | 🐛 0 | 🌐 Motoko | 📅 2025-09-06 - CBOR encoding/decoding library
@@ -271,4 +271,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._

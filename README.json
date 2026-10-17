@@ -1369,7 +1369,7 @@
                 "open_issues": 1,
                 "owner": "aviate-labs",
                 "repo": "rand.mo",
-                "stars": 5,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
@@ -1688,7 +1688,7 @@
                 "open_issues": 0,
                 "owner": "aviate-labs",
                 "repo": "bimap.mo",
-                "stars": 7,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
@@ -1947,7 +1947,7 @@
                 "open_issues": 6,
                 "owner": "aviate-labs",
                 "repo": "json.mo",
-                "stars": 19,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:26:24.314Z",
+    "last_updated": "2026-10-17T17:33:46.859Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Motoko code and resources.",
