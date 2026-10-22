@@ -775,7 +775,7 @@
                 "open_issues": 33,
                 "owner": "dfinity",
                 "repo": "cancan",
-                "stars": 337,
+                "stars": 336,
                 "topics": [
                   "canister",
                   "dfx",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T18:58:56.247Z",
+    "last_updated": "2026-10-22T18:53:13.587Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Motoko code and resources.",

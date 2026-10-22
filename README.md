@@ -111,7 +111,7 @@ Fully functional smart contract.
 
 ### Video
 
-* [cancan](https://github.com/dfinity/cancan) ⭐ 337 | 🐛 33 | 🌐 TypeScript | 📅 2026-04-09 - A scalable video-sharing service.
+* [cancan](https://github.com/dfinity/cancan) ⭐ 336 | 🐛 33 | 🌐 TypeScript | 📅 2026-04-09 - A scalable video-sharing service.
 
 ## Development tools
 
@@ -271,4 +271,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
