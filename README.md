@@ -96,7 +96,7 @@ Fully functional smart contract.
 ### Storage
 
 * [motoko-cdn](https://github.com/gabrielnic/motoko-cdn) ⭐ 39 | 🐛 2 | 🌐 TypeScript | 📅 2022-06-07 - A simple storage auto-scaling solution across multiple canisters. Ie: mini-bigmap.
-* [motoko-bucket](https://github.com/PrimLabs/Bucket) ⭐ 30 | 🐛 1 | 🌐 Motoko | 📅 2022-10-10 - A K-V Database lib that uses stable memory to store data.
+* [motoko-bucket](https://github.com/PrimLabs/Bucket) ⭐ 29 | 🐛 1 | 🌐 Motoko | 📅 2022-10-10 - A K-V Database lib that uses stable memory to store data.
 * [motoko-ICSP](https://github.com/PrimLabs/ICSP) ⭐ 20 | 🐛 0 | 🌐 Motoko | 📅 2022-06-13 - Internet Computer Storage Protocol. This lib supports many features, such as auto-scale storage, HTTP Redirect, cycle monitor and top up self automatically.
 * [motoko-document-db](https://github.com/DepartureLabsIC/motoko-document-db) ⭐ 5 | 🐛 1 | 🌐 Modelica | 📅 2021-11-13
 * [motoko-dht](https://github.com/enzoh/motoko-dht) ⭐ 4 | 🐛 0 | 🌐 Modelica | 📅 2020-06-01 - This canister implements a distributed hash table.
@@ -130,7 +130,7 @@ Fully functional smart contract.
 
 ### Testing
 
-* [motoko-matchers](https://github.com/kritzcreek/motoko-matchers) ⭐ 28 | 🐛 1 | 🌐 Motoko | 📅 2025-09-11 - Composable assertions for unit testing.
+* [motoko-matchers](https://github.com/kritzcreek/motoko-matchers) ⭐ 28 | 🐛 0 | 🌐 Motoko | 📅 2025-09-11 - Composable assertions for unit testing.
   * [ic101](https://github.com/kritzcreek/ic101) ⭐ 3 | 🐛 0 | 🌐 Modelica | 📅 2021-02-11 - This repository demonstrates how to use the matchers library to unit test canisters on the Internet Computer.
 * [ic-mini-terminal](https://github.com/matthewhammer/ic-mini-terminal) ⭐ 21 | 🐛 0 | 🌐 Rust | 📅 2022-12-27 - Minimal keyboard input (⌨) and graphical output (📺) for programs on the Internet Computer.
 * [motoko-bigtest](https://github.com/matthewhammer/motoko-bigtest) ⭐ 12 | 🐛 2 | 🌐 Modelica | 📅 2020-09-15 - Long-running tests as/for IC services, via a Motoko-based DSL.
@@ -168,7 +168,7 @@ Fully functional smart contract.
 
 * [motoko-base](https://github.com/dfinity/motoko-base) ⚠️ Archived - The Motoko base library, commonly used data structures and algorithms, maintained by the official.
 * [motoko-crud](https://github.com/matthewhammer/motoko-crud) ⭐ 26 | 🐛 9 | 🌐 Modelica | 📅 2021-05-13 - A framework for constructing CRUD services in Motoko for the Internet Computer.
-* [motoko-MerkleTree](https://github.com/nomeata/motoko-merkle-tree) ⭐ 21 | 🐛 4 | 🌐 Nix | 📅 2025-08-18 - A simple merkle tree data structure for Motoko. It provides a key-value store, where both keys and values are of type Blob.
+* [motoko-MerkleTree](https://github.com/nomeata/motoko-merkle-tree) ⭐ 20 | 🐛 4 | 🌐 Nix | 📅 2025-08-18 - A simple merkle tree data structure for Motoko. It provides a key-value store, where both keys and values are of type Blob.
 * [motoko-bigsearch](https://github.com/matthewhammer/motoko-sequence/blob/2b7b429224/service/BigSearch.mo) ⭐ 15 | 🐛 2 | 🌐 Motoko | 📅 2023-04-17 - A search service in Motoko, inspired by indexing and search systems like Apache Lucene.
 * [motoko-sequence](https://github.com/matthewhammer/motoko-sequence) ⭐ 15 | 🐛 2 | 🌐 Motoko | 📅 2023-04-17 - Cache-friendly, persistent sequential data for Motoko.
 * [Stable HashMaps](https://github.com/canscale/StableHashMap) ⭐ 15 | 🐛 1 | 🌐 Motoko | 📅 2022-05-18 - Functional & Class-Based (Heap-based) stable Hashmaps in Motoko.
@@ -222,7 +222,7 @@ Fully functional smart contract.
 
 ### Storage
 
-* [Bucket](https://github.com/PrimLabs/Bucket) ⭐ 30 | 🐛 1 | 🌐 Motoko | 📅 2022-10-10 - A data bucket library that use stable memory to store files bytes and assist developers to build http response.
+* [Bucket](https://github.com/PrimLabs/Bucket) ⭐ 29 | 🐛 1 | 🌐 Motoko | 📅 2022-10-10 - A data bucket library that use stable memory to store files bytes and assist developers to build http response.
 * [Asset Storage](https://github.com/aviate-labs/asset-storage.mo) ⭐ 20 | 🐛 2 | 🌐 Motoko | 📅 2022-01-13 - Interface of the Asset Storage Canister.
 * [A site about Motoko databases and related software](https://internet-computer.vporton.name)
 * [motoko-GraphQL](https://github.com/aviate-labs/graphql.mo) - GraphQL is a query language designed to build client applications and system for describing their data requirements and interactions.
@@ -271,4 +271,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._

@@ -580,7 +580,7 @@
                 "open_issues": 1,
                 "owner": "PrimLabs",
                 "repo": "Bucket",
-                "stars": 30,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
@@ -944,7 +944,7 @@
                 "language": "Motoko",
                 "license": "Apache-2.0",
                 "last_commit": "2025-09-11T08:31:41Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "kritzcreek",
                 "repo": "motoko-matchers",
                 "stars": 28,
@@ -1486,7 +1486,7 @@
                 "open_issues": 157,
                 "owner": "caffeinelabs",
                 "repo": "motoko-base",
-                "stars": 492,
+                "stars": 491,
                 "topics": [
                   "internet-computer",
                   "library",
@@ -1533,7 +1533,7 @@
                 "open_issues": 4,
                 "owner": "nomeata",
                 "repo": "ic-certification",
-                "stars": 21,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
@@ -2302,7 +2302,7 @@
                 "open_issues": 1,
                 "owner": "PrimLabs",
                 "repo": "Bucket",
-                "stars": 30,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:07.753Z"
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T18:53:13.587Z",
+    "last_updated": "2026-10-23T18:45:11.032Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Motoko code and resources.",
