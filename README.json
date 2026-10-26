@@ -815,7 +815,7 @@
                 "open_issues": 73,
                 "owner": "dfinity",
                 "repo": "sdk",
-                "stars": 204,
+                "stars": 203,
                 "topics": [
                   "blockchain",
                   "canister",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:53:37.550Z",
+    "last_updated": "2026-10-26T20:10:57.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Motoko code and resources.",
