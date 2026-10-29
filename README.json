@@ -937,7 +937,7 @@
                 }
               ],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": null,
                 "homepage": "https://mops.one/matchers",
                 "id": 275827943,
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T19:54:37.552Z",
+    "last_updated": "2026-10-29T19:54:12.114Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Motoko code and resources.",
