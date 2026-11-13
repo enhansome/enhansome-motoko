@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:37:10.191Z",
+    "last_updated": "2026-11-13T21:01:12.513Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Motoko code and resources.",
@@ -2553,7 +2553,7 @@
       "open_issues": 0,
       "owner": "ic123-xyz",
       "repo": "awesome-motoko",
-      "stars": 118,
+      "stars": 119,
       "topics": [
         "awesome",
         "awesome-list",
