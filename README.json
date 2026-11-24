@@ -805,14 +805,14 @@
               "description": "The DFINITY command-line execution environment (dfx) is the primary tool for creating, deploying, and managing the dapps you develop for the Internet Computer blockchain.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "IC SDK: a Software Development Kit for creating and managing canister smart contracts on the ICP blockchain.",
                 "homepage": "https://internetcomputer.org/docs/current/home",
                 "id": 198344153,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T16:25:42Z",
-                "open_issues": 74,
+                "last_commit": "2026-11-23T09:54:03Z",
+                "open_issues": 73,
                 "owner": "dfinity",
                 "repo": "sdk",
                 "stars": 203,
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T20:50:52.094Z",
+    "last_updated": "2026-11-24T01:55:32.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Motoko code and resources.",
