@@ -811,7 +811,7 @@
                 "id": 198344153,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T19:40:28Z",
+                "last_commit": "2026-11-25T02:13:00Z",
                 "open_issues": 72,
                 "owner": "dfinity",
                 "repo": "sdk",
@@ -2541,7 +2541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:39:22.101Z",
+    "last_updated": "2026-11-25T23:22:24.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Motoko code and resources.",
